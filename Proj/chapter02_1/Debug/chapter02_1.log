@@ -1,0 +1,24 @@
+﻿  example1.cpp
+d:\project\interactivecomputergraphics\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\interactivecomputergraphics\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\interactivecomputergraphics\include\angel.h(65): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\project\interactivecomputergraphics\include\mat.h(707): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(708): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(709): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(730): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(732): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(735): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(752): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  InitShader.cpp
+d:\project\interactivecomputergraphics\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\interactivecomputergraphics\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\interactivecomputergraphics\include\angel.h(65): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\project\interactivecomputergraphics\include\mat.h(707): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(708): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(709): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(730): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(732): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(735): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\interactivecomputergraphics\include\mat.h(752): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+  chapter02_1.vcxproj -> D:\project\InteractiveComputerGraphics\Proj\Debug\chapter02_1.exe
